@@ -1,6 +1,6 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import PersonCard from '../../components/personCard/personCard';
+import PersonCard from '../../components/PersonCard/PersonCard';
 import Styles from './Speakers.module.scss';
 
 class Speakers extends React.Component {
